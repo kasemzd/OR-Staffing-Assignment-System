@@ -3,3 +3,5 @@ pandas
 openpyxl
 xlsxwriter
 reportlab
+gspread
+gspread-dataframe
